@@ -1,0 +1,13 @@
+.header-container{
+    margin-right: 25px;
+    padding: 5px 50px 75px 100px;
+    margin: 0px 50px 75px 100px;
+    text-align: left;
+}
+
+.header-container p{
+    font-size: medium;
+}
+.bugget{
+  color: red;
+}

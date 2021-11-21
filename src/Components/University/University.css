@@ -1,0 +1,11 @@
+.card-detils{
+    text-align: left;
+
+}
+.card-detils h5{
+    color: #d90000;
+}
+.cost{
+    color:red;
+    font-size: 22px
+}
